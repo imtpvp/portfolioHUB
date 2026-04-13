@@ -23,4 +23,5 @@ Desenvolvimento de análise crítica sobre como as estruturas de poder históric
 [CLIQUE AQUI PARA VER A APRESENTAÇÃO DE SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vQVPCe261ACy9W1121m18DzsyByICNskYFi4c63nX3vEbNRtgmz0_Rl8P9i_Ssfrs2E9v2VIvnFbHOe/pub?start=false&loop=false&delayms=3000)
 
 ## 5. Recomendações
-"Demonstra forte capacidade de síntese e organização lógica de ideias, qualidades essenciais para a resolução de conflitos no ambiente profissional."# portfolioHUB
+"Demonstra forte capacidade de síntese e organização lógica de ideias, qualidades essenciais para a resolução de conflitos no ambiente profissional."
+# portfolioHUB
