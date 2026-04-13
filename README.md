@@ -1,6 +1,6 @@
 # portfolioHUB - Portfólio Profissional
 
-## 1. Perfil Pessoal
+## 1. Perfil Pessoal    <img src="foto-perfil.jpeg" alt="Sua Foto Profissional" width="200" style="border-radius: 50%;">
 **[Igor Breguez de Melo]**
 *Pesquisador e Estudante de Ciência da Computação*
 - **Contato:** [igorbreguezmelo@gmail.com]
