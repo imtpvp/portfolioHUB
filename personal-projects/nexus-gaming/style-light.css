@@ -1,0 +1,77 @@
+/* Estilos Gerais - Tema Claro */
+body {
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa !important; /* Fundo Branco Claro */
+    color: #212529 !important; /* Texto Escuro (Cor base para alto contraste) */
+}
+
+/* Header - Tema Claro */
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    background-color: #ffffff !important; 
+    border-bottom: 1px solid #dc3545 !important;
+    color: #212529 !important;
+}
+
+header h1 {
+    color: #dc3545 !important;
+    text-shadow: none;
+}
+
+/* Navegação Principal - Tema Claro */
+header nav a {
+    color: #212529 !important; /* Texto Escuro */
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+header nav a:hover {
+    color: #dc3545 !important; /* Vermelho/Danger ao passar o mouse */
+}
+
+/* Fundo dos Cards no Catálogo/Início - Tema Claro */
+.bg-secondary {
+    background-color: #e9ecef !important; /* Fundo Cinza Claro */
+    border: 1px solid #dee2e6;
+    color: #212529 !important; /* Garante que o texto base seja escuro (WCAG) */
+}
+
+/* TÍTULO DINÂMICO: Cor escura para alto contraste em Light Mode (WCAG OK) */
+.card-title-dynamic {
+    color: #212529 !important; 
+}
+
+/* CORREÇÃO WCAG: Subtítulos (p class="card-text text-danger") em vermelho escuro para alto contraste */
+.card-text.text-danger {
+    color: #930000 !important; /* Vermelho escuro para passar no WCAG no fundo claro */
+}
+
+/* Título principal do Catálogo */
+.card-title.text-warning {
+    color: #dc3545 !important; 
+}
+
+/* Ajuste nos botões de filtro - Tema Claro */
+#filters .list-group-item-action {
+    border: none;
+    cursor: pointer;
+    margin-bottom: 5px;
+    background-color: #f1f1f1 !important;
+    color: #212529 !important;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+#filters .list-group-item-action:hover {
+    background-color: #dee2e6 !important;
+}
+
+/* Cor do filtro ativo - Tema Claro */
+#filters .list-group-item-action.active {
+    background-color: #ffc107 !important; /* Amarelo/Laranja */
+    color: #212529 !important; 
+    font-weight: bold;
+}
