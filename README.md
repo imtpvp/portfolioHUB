@@ -27,3 +27,24 @@ Desenvolvimento de análise crítica sobre como as estruturas de poder históric
 ## 5. Recomendações
 "Demonstra forte capacidade de síntese e organização lógica de ideias, qualidades essenciais para a resolução de conflitos no ambiente profissional."
 
+# PortfolioHUB - Portfólio de Interfaces
+
+Este repositório centraliza meus projetos de desenvolvimento de interfaces para o CEUB.
+
+## 📁 Estrutura do Repositório
+
+* `/index.html`: Landing page principal do portfólio (Tela de recepção).
+* `/personal-projects/nexus-gaming`: Diretório que hospeda a versão 1.0 (Piloto) do portal de jogos.
+
+## 🛠️ Tecnologias
+HTML5, CSS3, Bootstrap 5 e Git.
+
+---
+
+## 🎓 Desafio CEUB - Entrega Intermediária (Bootcamp 1)
+
+Esta seção documenta a adequação do repositório aos critérios exigidos na matéria.
+
+### 1. Publicação e Integração (v1.0)
+* **GitHub Pages:** https://imtpvp.github.io/portfolioHUB/
+* **Apresentação em Vídeo:** 
