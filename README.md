@@ -47,4 +47,4 @@ Esta seção documenta a adequação do repositório aos critérios exigidos na 
 
 ### 1. Publicação e Integração (v1.0)
 * **GitHub Pages:** https://imtpvp.github.io/portfolioHUB/
-* **Apresentação em Vídeo:** 
+* **Apresentação em Vídeo:** https://youtu.be/HmjJy8koTpo
